@@ -1,4 +1,5 @@
-# I AM RICH
+# I AM RICH ![AppIcon](/I%20AM%20RICH/Assets.xcassets/AppIcon.appiconset/Icon-20@2x.png)
+
 I am Rich - iPhone App
 
 <img src="IAMRICH_Main.png"
